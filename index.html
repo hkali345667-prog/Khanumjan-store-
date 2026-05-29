@@ -41,17 +41,18 @@
             margin-bottom: 20px;
             border: 1px solid #2a2a2a;
         }
-        .product-image-placeholder {
+        .product-image-container {
             width: 100%;
-            height: 300px;
-            background: linear-gradient(45deg, #2c3e50, #3498db);
+            background-color: #fff;
             display: flex;
-            align-items: center;
             justify-content: center;
-            color: white;
-            font-weight: bold;
-            text-align: center;
-            padding: 20px;
+            align-items: center;
+            overflow: hidden;
+        }
+        .product-image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
         }
         .product-info {
             padding: 20px;
@@ -156,8 +157,8 @@
 
     <div class="container">
         <div class="product-card">
-            <div class="product-image-placeholder">
-                [ Crystal Hair Eraser Ki Photo Yahan Aayegi ]
+            <div class="product-image-container">
+                <img src="https://i.ibb.co/0RSs0kHg/1000007717.jpg" alt="Crystal Hair Eraser">
             </div>
             
             <div class="product-info">
