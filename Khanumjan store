@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ur-PK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khanum Jan Store - Mobile Video Editing Course PDF</title>
+    <style>
+        /* Premium Dark & Neon Green Theme (Editors Choice) */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #0d0e12;
+            color: #ffffff;
+            line-height: 1.6;
+        }
+        .header {
+            background-color: #141722;
+            text-align: center;
+            padding: 20px;
+            border-bottom: 2px solid #00f0ff;
+        }
+        .header h1 {
+            color: #00f0ff;
+            font-size: 24px;
+            letter-spacing: 1px;
+            font-weight: 800;
+        }
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 15px;
+        }
+        .course-card {
+            background-color: #141722;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 8px 25px rgba(0, 240, 255, 0.15);
+            margin-bottom: 20px;
+            border: 1px solid #1f2438;
+        }
+        .hero-banner {
+            background: linear-gradient(135deg, #00f0ff, #7000ff);
+            padding: 40px 20px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .hero-banner h2 {
+            font-size: 28px;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+        }
+        .hero-banner p {
+            color: #00f0ff;
+            background: rgba(0,0,0,0.3);
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .product-info {
+            padding: 20px;
+        }
+        .price-box {
+            background-color: #1f2438;
+            padding: 15px;
+            border-radius: 12px;
+            text-align: center;
+            margin-bottom: 20px;
+            border: 1px dashed #00f0ff;
+        }
+        .price-tag {
+            font-size: 32px;
+            color: #39ff14;
+            font-weight: bold;
+        }
+        .price-tag span {
+            font-size: 18px;
+            color: #888;
+            text-decoration: line-through;
+            margin-left: 10px;
+        }
+        .instant-badge {
+            font-size: 12px;
+            color: #00f0ff;
+            margin-top: 5px;
+            display: block;
+        }
+        .section-title {
+            color: #00f0ff;
+            font-size: 18px;
+            margin-bottom: 12px;
+            border-left: 3px solid #7000ff;
+            padding-left: 10px;
+        }
+        .syllabus {
+            background-color: #0d0e12;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+        .syllabus ul {
+            list-style: none;
+        }
+        .syllabus li {
+            margin-bottom: 10px;
+            font-size: 14px;
+            display: flex;
+            align-items: flex-start;
+        }
+        .syllabus li::before {
+            content: "📄";
+            margin-right: 10px;
+        }
+        .bonus-box {
+            background: rgba(112, 0, 255, 0.1);
+            border: 1px solid #7000ff;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+        }
+        .bonus-box h4 {
+            color: #ff007f;
+            margin-bottom: 5px;
+        }
+        .btn-whatsapp {
+            display: block;
+            background-color: #25D366;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 12px;
+            text-decoration: none;
+            box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+            transition: 0.3s;
+        }
+        .btn-whatsapp:hover {
+            background-color: #20ba56;
+            transform: translateY(-2px);
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 12px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>KHANUM JAN STORE</h1>
+    </div>
+
+    <div class="container">
+        <div class="course-card">
+            
+            <!-- Beautiful Digital Banner -->
+            <div class="hero-banner">
+                <h2>Mobile Editing Mastery</h2>
+                <p>Complete PDF Course Guide (Urdu/Hindi)</p>
+            </div>
+            
+            <div class="product-info">
+                
+                <div class="price-box">
+                    <div class="price-tag">Rs. 499 <span>Rs. 1,999</span></div>
+                    <span class="instant-badge">⚡ Instant PDF File Delivery on WhatsApp via Easypaisa/JazzCash</span>
+                </div>
+                
+                <h3 class="section-title">Is PDF Guide Mai Kya Shamil Hai?</h3>
+                <div class="syllabus">
+                    <ul>
+                        <li><strong>Lesson 1:</strong> CapCut Interface aur Basic Tools Guide</li>
+                        <li><strong>Lesson 2:</strong> Video Trimming, Cutting aur Split Workflow</li>
+                        <li><strong>Lesson 3:</strong> Urdu/English Fonts aur Trending Captions</li>
+                        <li><strong>Lesson 4:</strong> Keyframing Basics (Text aur Objects Moving)</li>
+                        <li><strong>Lesson 5:</strong> Smooth Transitions aur Video Effects</li>
+                        <li><strong>Lesson 6:</strong> Audio Editing aur Professional Voice-Over</li>
+                        <li><strong>Lesson 7:</strong> Sound Design (Trending Sound Effects)</li>
+                        <li><strong>Lesson 8:</strong> Color Grading aur HD Quality Enhancement</li>
+                        <li><strong>Lesson 9:</strong> Overlay, Green Screen (Chroma Key) aur Masking</li>
+                        <li><strong>Lesson 10:</strong> 4K Professional Export Settings</li>
+                    </ul>
+                </div>
+
+                <div class="bonus-box">
+                    <h4>🎁 FREE MEGA BONUS PACK:</h4>
+                    <p style="font-size: 13px; color: #ccc;">PDF ke andar aap ko 50+ Trending Sound Effects, Premium Fonts aur Overlays ke direct download links bilkul FREE milenge!</p>
+                </div>
+
+                <!-- WhatsApp Order Button -->
+                <a href="https://wa.me/923354425622?text=Salam%20Khanum%20Jan%20Store,%20Mujhe%20Mobile%20Video%20Editing%20PDF%20Course%20Khareedna%20Hai.%20Price:%20Rs.499" class="btn-whatsapp">
+                    🟢 Buy Now Via WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <div class="footer">
+            &copy; 2026 Khanum Jan Store. All Rights Reserved.
+        </div>
+    </div>
+
+</body>
+</html>
